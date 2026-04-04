@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+lab4/data
+.mplconfig
+.DS_Store
+/lab5/data
