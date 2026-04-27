@@ -213,3 +213,11 @@ lab4/data
 /lab7/data
 /lab7/runs
 /lab7/.mplconfig
+/lab8/.cache
+/lab8/data/person/*
+/lab8/data/person_train_clean
+/lab8/models
+/lab8/scripts
+/lab8/output/*.png
+/lab8/data
+/lab8/output

@@ -7,3 +7,10 @@ torch
 torchvision
 pandas
 tqdm
+diffusers
+transformers
+accelerate
+safetensors
+peft
+huggingface_hub
+pillow
